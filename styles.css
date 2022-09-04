@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #59886B;
+}
+
+.main-el {
+    margin-top: 150px;
+    background-color: #FFC85C;
+    display: inline-block;
+    max-width: 320px;
+    min-width: 320px;
+    padding: 8px;
+    border: 2px solid #FFF8C1;
+}
+
+.subBtn {
+    margin-top: 10px;
+}
+
+#sub-btn {
+    padding: 5px 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#enteredTemperature {
+    padding: 0 8px;
+    height: 30px;
+    font-size: 15px;
+
+}
